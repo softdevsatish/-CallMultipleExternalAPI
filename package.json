@@ -1,0 +1,25 @@
+{
+  "name": "call-external-api",
+  "version": "1.0.0",
+  "description": "Call an external api using node js.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "call",
+    "node",
+    "web",
+    "api"
+  ],
+  "author": "Martand Singh (sniffer)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.16",
+    "request": "^2.87.0"
+  }
+}
